@@ -1,15 +1,15 @@
 # Seja bem-vindo !!
 
 ### Sobre mim
-Olá, me chamo Pedro Henrique, tenho 19 anos e sou apaixonado pelo mundo da programação! atualmente sou um iniciante e estou no 2° semestre na faculdade de Análise e Desenvolvimento de Sistemas.
+- Me chamo Pedro Henrique, tenho 19 anos e sou apaixonado pelo mundo da programação! atualmente sou um iniciante e estou no 2° semestre na faculdade de Análise e Desenvolvimento de Sistemas.
 
-Ainda não tenho uma stack definida porque ainda não encontrei oque ***realmente*** gosto, porém passo boa parte programando em C# por causa da faculdade e em C como hobby no meu tempo livre.
+- Ainda não tenho uma stack definida porque ainda não encontrei oque ***realmente*** gosto, porém passo boa parte programando em C# por causa da faculdade e em C como hobby no meu tempo livre.
 
-Estou trabalhando em pequenos projetos para auxiliar nos meus estudos, porém tenho interesse em ajudar em qualquer projeto open source!
+- Estou trabalhando em pequenos projetos para auxiliar nos meus estudos, porém tenho interesse em ajudar em qualquer projeto open source!
 
-Amo linguagens de baixo nível tipo C/C++ e Assembly e quero um dia mexer com engenharia reversa e também tenho interesse em conhecer linguagens de programação funcionais tipo Scheme e Common Lisp.
+- Amo linguagens de baixo nível tipo C/C++ e Assembly e quero um dia mexer com engenharia reversa e também tenho interesse em conhecer linguagens de programação funcionais tipo Scheme e Common Lisp.
 
-*uso Arch Linux btw*
+- *uso Arch Linux btw*
 
 ![](https://steamuserimages-a.akamaihd.net/ugc/879748616164108107/8F44EE6DAFB4F4E2469AA4947059A09E1A78E93C/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false)
 > let's all love lain
