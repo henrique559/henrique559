@@ -1,30 +1,23 @@
 # Bem vindo ao meu perfil GitHub 👋
 
-Olá, me chamo Pedro Henrique, tenho 19 anos e sou apaixonado pelo mundo da programação! atualmente sou um iniciante e estou no 2° semestre em Análise e Desenvolvimento de Sistemas.
+Olá, me chamo Pedro Henrique, tenho 19 anos e sou apaixonado pelo mundo da programação! atualmente sou um iniciante e estou no 2° semestre na faculdade de Análise e Desenvolvimento de Sistemas.
 
 Ainda não tenho uma stack definida porque ainda não encontrei oque ***realmente*** gosto, porém passo boa parte programando em C# por causa da faculdade e em C como hobby no meu tempo livre.
 
-Amo linguagens de baixo nível como C, C++ e Assembly e estou estudando essas linguagens para começar a mexer com engenharia reversa.
+Amo linguagens de baixo nível tipo C/C++ e Assembly e quero um dia mexer com engenharia reversa e tenho interesse em conhecer linguagens de programação funcionais tipo Scheme e Common Lisp
 
+uso Arch Linux btw
 
 ![](https://steamuserimages-a.akamaihd.net/ugc/879748616164108107/8F44EE6DAFB4F4E2469AA4947059A09E1A78E93C/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false)
 > let's all love lain
 
 ## Ferramentas e Tecnologias
 
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg" width="40" height="40" />
-
-
-
 
 ## Estou aprendendo
 
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" height="40" />
-
-
-
 
 ## Contatos:
 
