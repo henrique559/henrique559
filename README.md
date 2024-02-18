@@ -1,6 +1,6 @@
 # Bem vindo ao meu perfil GitHub 👋
 
-Olá, me chamo Pedro Henrique, tenho 19 anos e sou apaixonado pelo mundo da programação! atualmente sou um iniciante e continuo com os meus estudos.
+Olá, me chamo Pedro Henrique, tenho 19 anos e sou apaixonado pelo mundo da programação! atualmente sou um iniciante e estou no 2° semestre em Análise e Desenvolvimento de Sistemas.
 
 Ainda não tenho uma stack definida porque ainda não encontrei oque ***realmente*** gosto, porém passo boa parte programando em C# para faculdade e em C como hobby no meu tempo livre.
 
