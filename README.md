@@ -1,9 +1,13 @@
-# Seja bem-vindo <img src="https://icon-library.com/images/linux-tux-icon/linux-tux-icon-25.jpg " width="32" height="32" /> 
+# Seja bem-vindo !!
+
+## Sobre mim
 Olá, me chamo Pedro Henrique, tenho 19 anos e sou apaixonado pelo mundo da programação! atualmente sou um iniciante e estou no 2° semestre na faculdade de Análise e Desenvolvimento de Sistemas.
 
 Ainda não tenho uma stack definida porque ainda não encontrei oque ***realmente*** gosto, porém passo boa parte programando em C# por causa da faculdade e em C como hobby no meu tempo livre.
 
-Amo linguagens de baixo nível tipo C/C++ e Assembly e quero um dia mexer com engenharia reversa e tenho interesse em conhecer linguagens de programação funcionais tipo Scheme e Common Lisp
+Estou trabalhando em pequenos projetos para auxiliar nos meus estudos, porém tenho interesse em ajudar em qualquer projeto open source!
+
+Amo linguagens de baixo nível tipo C/C++ e Assembly e quero um dia mexer com engenharia reversa e também tenho interesse em conhecer linguagens de programação funcionais tipo Scheme e Common Lisp.
 
 *uso Arch Linux btw*
 
