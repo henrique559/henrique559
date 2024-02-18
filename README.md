@@ -4,7 +4,7 @@
 
 ## Sobre mim
 
-- Me chamo Pedro Henrique, tenho 19 anos e sou apaixonado pelo mundo da programação! atualmente sou um iniciante e estou no 2° semestre na faculdade de Análise e Desenvolvimento de Sistemas.
+- Me chamo Pedro Henrique, tenho 19 anos e sou apaixonado pelo mundo da programação! ainda sou iniciante e atualmente estou no 2° semestre na faculdade de Análise e Desenvolvimento de Sistemas.
 
 - Ainda não tenho uma stack definida porque ainda não encontrei oque ***realmente*** gosto, porém passo boa parte programando em C# por causa da faculdade e em C como hobby no meu tempo livre.
 
