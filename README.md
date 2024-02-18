@@ -1,19 +1,12 @@
-# Olá, me chamo Pedro Henrique ! 
-## Bem vindo ao meu perfil GitHub 👋
+# Bem vindo ao meu perfil GitHub 👋
+
+Olá, me chamo Pedro Henrique, tenho 19 anos e sou apaixonado pelo mundo da programação! atualmente sou um iniciante e continuo com os meus estudos.
+Ainda não tenho uma stack definida porque ainda não encontrei oque ***realmente*** gosto, porém passo boa parte programando em C# para faculdade e em C como hobby no meu tempo livre.
+Amo linguagens de baixo nível como C, C++ e Assembly e estou estudando essas linguagens para começar a mexer com engenharia reversa.
 
 
-- 🌱 Atualmente estou aprendendo C# e Python
-- 👯 Estou procurando colaborar em projetos open source
-- 📫 Como entrar em contato comigo: ...
-- 😄 Pronomes: Ele/Dele
-- ⚡ Curiosidades: minha linguagem de programação favorita é a linguagem C (Inclusive tenho muito interesse por engenharia reversa e sistemas embarcados)
-
-<div>
-<a href="https://github.com/henrique559">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrique559&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=henrique559&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-
+!image[https://steamuserimages-a.akamaihd.net/ugc/879748616164108107/8F44EE6DAFB4F4E2469AA4947059A09E1A78E93C/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false]
+> let's all love lain
 
 ## Ferramentas e Tecnologias
 
@@ -36,5 +29,11 @@
 <div>
 <a href="https://www.linkedin.com/in/pedro-henrique-426719294/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
-                  
+
+<div>
+<a href="https://github.com/henrique559">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrique559&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=henrique559&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
 
