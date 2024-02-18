@@ -1,4 +1,4 @@
-# Seja bem-vindo !!
+# Seja bem-vindo !! <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 
 ### Sobre mim
 - Me chamo Pedro Henrique, tenho 19 anos e sou apaixonado pelo mundo da programação! atualmente sou um iniciante e estou no 2° semestre na faculdade de Análise e Desenvolvimento de Sistemas.
@@ -11,7 +11,8 @@
 
 - *uso Arch Linux btw*
 
-![](https://steamuserimages-a.akamaihd.net/ugc/879748616164108107/8F44EE6DAFB4F4E2469AA4947059A09E1A78E93C/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false)
+<img align="right" alt="GIF" src="https://steamuserimages-a.akamaihd.net/ugc/879748616164108107/8F44EE6DAFB4F4E2469AA4947059A09E1A78E93C/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="500"/>
+
 > let's all love lain
 
 ### Ferramentas e Tecnologias
@@ -28,6 +29,9 @@
 <a href="https://www.linkedin.com/in/pedro-henrique-426719294/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-
+<br>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=henrique559&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="henrique559's Github Stats">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henrique559&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/henrique559/github-readme-stats)
+</br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devSouvik&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/devSouvik/github-readme-stats)
+
