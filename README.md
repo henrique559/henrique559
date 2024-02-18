@@ -9,7 +9,7 @@
 - Estou trabalhando em pequenos projetos para auxiliar nos meus estudos, porém tenho interesse em ajudar em qualquer projeto open source!
 
 - Amo linguagens de baixo nível tipo C/C++ e Assembly e quero um dia mexer com engenharia reversa e também tenho interesse em conhecer linguagens de programação funcionais tipo Scheme e Common Lisp.
-<img align="center" alt="GIF" src="https://steamuserimages-a.akamaihd.net/ugc/879748616164108107/8F44EE6DAFB4F4E2469AA4947059A09E1A78E93C/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="720" height="256"/>
+<img align="center" alt="GIF" src="https://steamuserimages-a.akamaihd.net/ugc/879748616164108107/8F44EE6DAFB4F4E2469AA4947059A09E1A78E93C/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="900" height="500"/>
 
 > Let's all love lain
 
