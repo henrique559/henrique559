@@ -8,7 +8,7 @@
 
 - Ainda não tenho uma stack definida porque ainda não encontrei oque ***realmente*** gosto, porém passo boa parte do tempo programando em C# por causa da faculdade e em C como hobby no meu tempo livre.
 
-- Estou trabalhando em pequenos projetos para auxiliar nos meus estudos, porém tenho interesse em ajudar em qualquer projeto open source!
+- Estou trabalhando apenas em pequenos projetos para auxiliar nos meus estudos, porém tenho interesse em ajudar em qualquer projeto open source!
 
 - Amo linguagens de baixo nível tipo C/C++ e Assembly e quero um dia mexer com engenharia reversa e também tenho interesse em conhecer linguagens de programação funcionais tipo Scheme e Common Lisp.
 
