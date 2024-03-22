@@ -7,10 +7,11 @@
 - Me chamo Pedro, tenho 19 anos e sou um entusiasta do mundo da programação e desenvolvedor de software. Atualmente estou no 2° semestre na faculdade de Análise e Desenvolvimento de Sistemas.
 
 - Tenho interesse pela área de back-end e programação de baixo nível com foco em engenharia reversa, as minhas linguagens de programação principais são C#, Python, C/C++ e estou aprendendo Scheme (Dialeto de Lisp) para
-conhecer o paradigma funcional e aprimorar o meu pensamento computacional.
+conhecer o paradigma funcional e aprimorar o meu pensamento computacional, e também gosto de matemática.
 
-- Estou trabalhando apenas em pequenos projetos para auxiliar nos meus estudos, porém tenho interesse em contribuir com qualquer projeto open source.
+- Estou trabalhando apenas em projetos pequenos para auxiliar nos meus estudos, porém tenho interesse em contribuir com qualquer projeto open source.
 
+- Atualmente o meu objetivo é estudar ciências da computação e matemática por contra própria através de livros e cursos na internet para aprimorar o meu conhecimento na área de exatas e tecnologia, como também para saber como tudo funciona por baixo dos panos.
 
 <img align="center" alt="GIF" src="https://steamuserimages-a.akamaihd.net/ugc/879748616164108107/8F44EE6DAFB4F4E2469AA4947059A09E1A78E93C/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="600" height="300"/>
 
