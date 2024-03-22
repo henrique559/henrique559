@@ -4,7 +4,7 @@
 
 ## Sobre mim
 
-- Me chamo Pedro, tenho 19 anos e sou um entusiasta do mundo da programação e desenvolvedor de software. atualmente estou no 2° semestre na faculdade de Análise e Desenvolvimento de Sistemas.
+- Me chamo Pedro, tenho 19 anos e sou um entusiasta do mundo da programação e desenvolvedor de software. Atualmente estou no 2° semestre na faculdade de Análise e Desenvolvimento de Sistemas.
 
 - Tenho interesse pela área de back-end e programação de baixo nível com foco em engenharia reversa, as minhas linguagens de programação principais são C#, Python e C/C++ e estou aprendendo Scheme (Dialeto de Lisp) para
 conhecer o paradigma funcional e aprimorar o meu pensamento computacional.
