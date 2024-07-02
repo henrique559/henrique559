@@ -23,12 +23,7 @@ conhecer o paradigma funcional e aprimorar o meu pensamento computacional, e tam
 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="64" height="64" />   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg"  width="64" height="64" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" width="64" height="64" />
-## Contatos
-
-<div>
-<a href="https://www.linkedin.com/in/pedro-henrique-426719294/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
-
+  
 ## Status
 <br>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=henrique559&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="henrique559's Github Stats">
