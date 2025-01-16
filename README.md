@@ -6,8 +6,6 @@
 
 Me chamo Pedro, tenho 19 anos e sou entusiasta do mundo da programação e desenvolvedor de software. Atualmente, estou no 4° semestre do curso de Análise e Desenvolvimento de Sistemas. Trabalho como DBA, com experiência em tecnologias como Redis, MongoDB, Java, Bash e Docker. Estou sempre em busca de novos aprendizados e desafios no universo da tecnologia.
 
-<img align="center" alt="GIF" src="https://steamuserimages-a.akamaihd.net/ugc/879748616164108107/8F44EE6DAFB4F4E2469AA4947059A09E1A78E93C/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="600" height="300"/>
-
 
 ## Status
 <br>
