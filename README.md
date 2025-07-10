@@ -1,10 +1,3 @@
-# Seja bem-vindo ao meu perfil!
-
-
-
-## Sobre mim
-
-Me chamo Pedro, tenho 19 anos e sou entusiasta do mundo da programação e desenvolvedor de software. Atualmente, estou no 4° semestre do curso de Análise e Desenvolvimento de Sistemas. Trabalho como DBA, com experiência em tecnologias como Redis, MongoDB, Java, Bash e Docker. Estou sempre em busca de novos aprendizados e desafios no universo da tecnologia.
 
 
 ## Status
